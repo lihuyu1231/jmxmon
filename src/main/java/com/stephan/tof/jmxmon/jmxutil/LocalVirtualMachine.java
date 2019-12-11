@@ -22,7 +22,7 @@ import sun.jvmstat.monitor.MonitoredVm;
 import sun.jvmstat.monitor.MonitoredVmUtil;
 import sun.jvmstat.monitor.VmIdentifier;
 // Sun private
-import sun.management.ConnectorAddressLink;
+import jdk.internal.agent.ConnectorAddressLink;
 
 import com.sun.tools.attach.AgentInitializationException;
 import com.sun.tools.attach.AgentLoadException;
